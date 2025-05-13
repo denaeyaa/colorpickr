@@ -19,26 +19,31 @@ Berikut adalah tampilan dan penjelasan singkat dari fitur-fitur utama:
 ### 1. Unggah Gambar
 
 ![image](https://github.com/user-attachments/assets/8af67c3c-694e-49dd-9e3c-f9aba3ea3fbf)
+
 *Pengguna dapat mengunggah gambar dari perangkat mereka untuk mulai memilih warna.*
 
 ### 2. Pemilihan Warna dan Tampilan Kode Warna
 
 ![image](https://github.com/user-attachments/assets/592731b7-bd75-4757-81a1-6bb65ac31b16)
+
 *Saat kursor diarahkan ke gambar, warna di bawah kursor akan ditampilkan bersama dengan kode HEX, RGB, dan HSL-nya secara langsung.*
 
 ### 3. Riwayat Warna
 
 ![image](https://github.com/user-attachments/assets/5e5e5631-6c35-4cd2-8aae-f5a55f8afe59)
+
 *Riwayat warna menyimpan pilihan warna terakhir, memungkinkan pengguna untuk dengan cepat memilih kembali warna yang sudah digunakan.*
 
 ### 5. Input Kode Warna Manual
 
 ![image](https://github.com/user-attachments/assets/02f9daf3-f3a7-45cc-a680-772d2816e8e2)
+
 *Pengguna dapat memasukkan kode warna HEX, RGB, atau HSL secara manual untuk melihat preview warna dan menambahkannya ke riwayat.*
 
 ### 6. Unduh Palet Warna
 
 ![image](https://github.com/user-attachments/assets/3318cd63-f71f-4e30-9e23-575ce7e7497f)
+
 *Palet warna yang telah dipilih dapat diunduh dalam format .TXT (daftar kode warna), .JSON (data JSON), dan .CSS (variabel CSS).*
 
 ---
